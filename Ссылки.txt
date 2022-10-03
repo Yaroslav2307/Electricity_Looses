@@ -1,0 +1,17 @@
+Информация по символьным вычислениям
+https://habr.com/ru/post/423731/
+
+Взаимодействие pyton с word и excel
+https://habr.com/ru/company/skillfactory/blog/553224/
+
+Вставка формул в Mathtype (на английском)
+https://github.com/python-openxml/python-docx/issues/320
+https://github.com/python-openxml/python-docx/issues/100
+https://stackoverflow.com/questions/32755682/how-to-add-math-formulas-in-odt-document-using-odfpy
+
+Библиотеки
+https://pypi.org/project/odfpy/
+https://translated.turbopages.org/proxy_u/en-ru.ru.436a43d1-62ea7d42-db01f474-74722d776562/https/www.geeksforgeeks.org/how-to-install-python-sympy-in-windows/
+
+Извлечение данных из Excel
+https://habr.com/ru/company/otus/blog/331998/
